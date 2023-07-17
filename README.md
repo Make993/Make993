@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Make993
 - 👀 I’m interested in python coding 
-- 🌱 I’m currently learning Ethical hacking and networking concepts
+- 🌱 I’m currently learning web applications and framewroks
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me ...
 
